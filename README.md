@@ -1,5 +1,5 @@
 # Vector-Calculus-Library
-VectorCalculations is a library that provides calculation for frequently used linear algebra vector operations.
+VectorCalculations is a library that provides calculation for frequently used linear algebra vector operations developed in early 2024.
 
 ## Features
 **Vector length Function:** Checks that the length of two vectors `v1` and `v2` are equal.
