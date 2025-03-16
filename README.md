@@ -10,9 +10,9 @@ VectorCalculations is a library that provides calculations for frequently used l
 
 **Cross Product Calculator:** Calculates the cross product of two vectors `v1` and `v2` 
 
-**Vektor Addition Calculator:** Add together two vectors `v1` and `v2`.
+**Vector Addition Calculator:** Add together two vectors `v1` and `v2`.
 
-**Vektor Subtraction Calculator:** Subtracts two vectors `v1` and `v2`.
+**Vector Subtraction Calculator:** Subtracts two vectors `v1` and `v2`.
 
 **Norm Calculator:** Calculates the norm a vector `vek`  given the choice between l1- and l2 norm as an (str) `entry`.
 
